@@ -46,7 +46,7 @@ ESGScoringApp is a command-line application for calculating ESG (Environmental, 
    ```sh
    dotnet build 
 
-3. ** Run the Application to view help menu**
+3. **Run the Application to view help menu**
    ```sh
    ./ESGSCoringApp -h
    
